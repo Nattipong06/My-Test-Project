@@ -2,6 +2,10 @@
 
 My website created today.
 
+## Team Member
+- Mr.john
+- Ms.Annne
+
 ## Features 
 
 - Support new file
